@@ -1,0 +1,14 @@
+.navbar-default{
+	height: 130px;
+	background-color: #c50707;
+	background-color: transparent;
+	border-radius: 0px;
+	border:0px;
+	margin-bottom: 0px;
+}
+.navbar-default .navbar-right> li> a{
+	padding-top: 40px;
+	font-size: 18px;
+	color: black;
+    margin-top: 20px;
+}
